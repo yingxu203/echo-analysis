@@ -1,4 +1,4 @@
-# ECHO Analysis — User Manual
+# ECHO Analysis — User Manual for MacOS
 
 This guide assumes you have never used this computer or this tool before.
 Follow it top to bottom the first time; after that, skip straight to
