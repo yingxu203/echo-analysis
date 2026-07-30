@@ -239,10 +239,6 @@ python finetune_bmode.py
 ## Status as of this writing (2026-07-28)
 
 - B-mode is currently using `weights_BMode_finetuned.h5` officially.
-  A newer `weights_BMode_finetuned_v2.h5` exists with corrections for
-  the PF/OX group specifically — it has **not** been made the default
-  yet, so if you rerun `echoanalysis_main.py` as-is you'll get the
-  pre-correction PF/OX numbers. Ask about `output_PFOX_v2corrected.csv`
-  if you need the corrected version.
-- M-mode is using `weights_MMode_finetuned_v3.h5` and has not yet had
-  the same hand-correction pass the B-mode PF/OX group got.
+- M-mode is using `weights_MMode_finetuned_v3.h5` officially.
+- For personal preference, any file name contains WT/WF/WM the QC output will generate blue#0000FF lines, OX/OF/OM will generate red#FF2C2C QC output lines.
+- The analysis is set to compare the data in order from day0 to day7 till day14 to form trends for final figures.
