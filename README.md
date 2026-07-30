@@ -1,7 +1,7 @@
 # ECHO Analysis
 
 B-mode and M-mode mouse echocardiography segmentation and statistical analysis
-pipeline for the AKAP12-PDE8 axis study. See [USER_MANUAL.md](USER_MANUAL.md)
+pipeline for the mouse long axis ECHO study. See [USER_MANUAL.md](USER_MANUAL.md)
 for setup and usage instructions.
 
 ## License & Attribution
