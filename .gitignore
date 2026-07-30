@@ -1,0 +1,26 @@
+# Model weights (large binary files, not source)
+model_weights/
+*.h5
+
+# Training/annotation data (image/mask .npy pairs derived from DICOM scans)
+training_data_bmode/
+training_data_mmode/
+annotate_PF_OX_bmode/
+annotate_PF_OX_mmode/
+annotate_highEF_bmode/
+annotate_highEF_bmode_round2/
+
+# Generated analysis outputs (regenerable from code + data)
+study_results/
+qc_comparisons/
+output/
+*.pdf
+*.xlsx
+*.pptx
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
