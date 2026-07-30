@@ -1,3 +1,5 @@
+# Derived from pfizer-opensource/mouse-echo-neural-net (https://github.com/pfizer-opensource/mouse-echo-neural-net),
+# licensed under the Apache License, Version 2.0. This file has been modified from the original.
 import numpy as np
 import pandas as pd
 import scipy

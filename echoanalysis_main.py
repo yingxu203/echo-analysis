@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Derived from pfizer-opensource/mouse-echo-neural-net (https://github.com/pfizer-opensource/mouse-echo-neural-net),
+# licensed under the Apache License, Version 2.0. This file has been modified from the original.
 """
 Main function for b-mode echo segmenter
 Created on Fri Jun 26 10:49:25 2020

@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Derived from pfizer-opensource/mouse-echo-neural-net (https://github.com/pfizer-opensource/mouse-echo-neural-net),
+# licensed under the Apache License, Version 2.0. This file has been modified from the original.
 """
 Created on Wed Nov  6 16:38:50 2019
 

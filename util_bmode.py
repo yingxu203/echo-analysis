@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Derived from pfizer-opensource/mouse-echo-neural-net (https://github.com/pfizer-opensource/mouse-echo-neural-net),
+# licensed under the Apache License, Version 2.0. This file has been modified from the original.
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 29 16:25:30 2020
